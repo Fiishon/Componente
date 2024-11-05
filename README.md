@@ -1,3 +1,7 @@
+<h1 align="center"> Componente JPassword </h1>
+
+Hecho por: Cristhian Eduardo Bautista Gómez
+
 <h1 align="center"> Descripción </h1>
 
 Este componente es una variante de un JPasswordField, con la novedad de que trae un icono por defecto que cuando se presiona muestra la contraseña y cambia el icono como si estuviera visualizando y al dejar de presionarlo, la contraseña se vuelve caracteres ocultos.
